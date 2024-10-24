@@ -4,8 +4,7 @@
 **Objetivo:** Classificar veículos que adentram na região de fronteira do Paraná com o Paraguai como "Lícito" ou "Ilícito".
 
 ## Aplicação:
-- [Link para a Aplicação - Projeto PRF 2024](https://bit.ly/projetoenapprf2024)  
-- [Demo - Hugging Face](https://huggingface.co/spaces/peeweesuper/BootCamp_ML_Enap_2024)
+- Aplicação - Hugging Face: [Link 1](https://bit.ly/projetoenapprf2024) - [Link 2](https://huggingface.co/spaces/peeweesuper/BootCamp_ML_Enap_2024)
 
 ---
 
